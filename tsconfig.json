@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "strict": true,
+        "outDir": "js/",
+        "jsx": "react-jsx",
+    },
+    "include": [
+        "./app.tsx"
+    ],
+    "exclude": [
+        "out/"
+    ]
+}
